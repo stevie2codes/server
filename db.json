@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": 38980,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 4035,
+      "company": "Miller - Conroy",
+      "content": "Ipsa et dolorum unde itaque debitis error repellendus.",
+      "is_mms": 0,
+      "timewarp": 0,
+      "segmented": 0
+    },
+    {
+      "id": 15505,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 66074,
+      "company": "Lakin - Daugherty",
+      "content": "Quam eum voluptatibus.",
+      "is_mms": 1,
+      "timewarp": 0,
+      "segmented": 1
+    },
+    {
+      "id": 81054,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 16586,
+      "company": "Koepp Inc",
+      "content": "Soluta ipsa molestiae.",
+      "is_mms": 1,
+      "timewarp": 0,
+      "segmented": 0
+    },
+    {
+      "id": 55048,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 81556,
+      "company": "Champlin - Kertzmann",
+      "content": "Accusantium doloribus nemo delectus omnis.",
+      "is_mms": 0,
+      "timewarp": 1,
+      "segmented": 0
+    },
+    {
+      "id": 94028,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 55652,
+      "company": "Leannon - West",
+      "content": "Culpa consequuntur voluptate quia officiis autem mollitia excepturi.",
+      "is_mms": 1,
+      "timewarp": 0,
+      "segmented": 1
+    },
+    {
+      "id": 48883,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 29439,
+      "company": "Armstrong - Morar",
+      "content": "Neque sint non quo itaque rerum omnis placeat.",
+      "is_mms": 0,
+      "timewarp": 1,
+      "segmented": 1
+    },
+    {
+      "id": 6120,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 68263,
+      "company": "McCullough - Runolfsson",
+      "content": "Et fugiat maiores eos et explicabo est non laboriosam.",
+      "is_mms": 1,
+      "timewarp": 0,
+      "segmented": 0
+    },
+    {
+      "id": 31605,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 52117,
+      "company": "Terry - Hills",
+      "content": "Ut labore consequuntur molestias aliquid quam qui nobis.",
+      "is_mms": 1,
+      "timewarp": 0,
+      "segmented": 1
+    },
+    {
+      "id": 58080,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 60172,
+      "company": "Altenwerth - Gutmann",
+      "content": "Delectus debitis culpa eligendi quis et autem.",
+      "is_mms": 0,
+      "timewarp": 0,
+      "segmented": 1
+    },
+    {
+      "id": 95470,
+      "schedule_at": "2020-09-04T18:10:55Z",
+      "list_id": 33052,
+      "company": "Hilpert - Crooks",
+      "content": "Voluptas repellat nostrum dolorem.",
+      "is_mms": 1,
+      "timewarp": 1,
+      "segmented": 0
+    }
+  ]
+}
