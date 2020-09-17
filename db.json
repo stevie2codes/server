@@ -99,6 +99,76 @@
       "is_mms": 1,
       "timewarp": 1,
       "segmented": 0
+    },
+    {
+      "id": 64099,
+      "list_id": 43203,
+      "company": "The boring company",
+      "prefix": "Bor",
+      "created_at": "2020-09-04T18:10:55Z",
+      "percent_complete": 50
+    },
+    {
+      "id": 62049,
+      "list_id": 20203,
+      "company": "Tesla",
+      "prefix": "Tes",
+      "created_at": "2020-09-04T18:10:55Z",
+      "percent_complete": 60
+    },
+    {
+      "id": 34445,
+      "sending_at": "2020-09-04T18:10:55Z",
+      "list_id": 23233,
+      "company": "The Company",
+      "content": "Here is a content message about content to be sent as a message",
+      "is_mms": 0,
+      "recipients_count": 433
+    },
+    {
+      "id": 36155,
+      "sending_at": "2020-09-04T18:10:55Z",
+      "list_id": 23233,
+      "company": "The Company",
+      "content": "Here is a content message about content to be sent as a message",
+      "is_mms": 0,
+      "recipients_count": 903
+    },
+    {
+      "id": 36845,
+      "sending_at": "2020-09-04T18:10:55Z",
+      "list_id": 23233,
+      "company": "The Company",
+      "content": "Here is a content message about content to be sent as a message",
+      "is_mms": 0,
+      "recipients_count": 533
+    },
+    {
+      "id": 36845,
+      "upload_strategy": "strategy",
+      "list_id": 28833,
+      "created_at": "2020-09-04T18:10:55Z",
+      "total_rows": 5,
+
+      "percent_complete": 20
+    },
+    {
+      "id": 36845,
+      "upload_strategy": "strategy",
+      "list_id": 28833,
+      "created_at": "2020-09-04T18:10:55Z",
+      "total_rows": 5,
+
+      "percent_complete": 20
+    },
+    {
+      "id": 36845,
+      "upload_strategy": "strategy",
+      "list_id": 28833,
+      "created_at": "2020-09-04T18:10:55Z",
+      "total_rows": 5,
+
+      "percent_complete": 20
     }
   ]
 }
