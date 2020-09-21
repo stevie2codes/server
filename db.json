@@ -188,5 +188,34 @@
       "total_rows": 5,
       "percent_complete": 80
     }
+  ],
+  "running_reports": [
+    {
+      "id": 34645,
+      "created_at": "2020-09-04T18:10:55Z",
+      "name": "Report name",
+      "list_id": 75833,
+      "company": "A Generic Company2",
+      "attempts": 2,
+      "params": "params"
+    },
+    {
+      "id": 22645,
+      "created_at": "2020-09-04T18:10:55Z",
+      "name": "Report name",
+      "list_id": 74563,
+      "company": "A Generic Company2",
+      "attempts": 2,
+      "params": "params"
+    },
+    {
+      "id": 37895,
+      "created_at": "2020-09-04T18:10:55Z",
+      "name": "Report name",
+      "list_id": 75833,
+      "company": "A Generic Company2",
+      "attempts": 2,
+      "params": "params"
+    }
   ]
 }
