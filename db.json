@@ -175,16 +175,16 @@
     {
       "id": 86753,
       "created_at": "2020-09-04T18:10:55Z",
-      "upload_strategy": "strategy",
-      "list_id": 28833,
+      "upload_strategy": "strategy2",
+      "list_id": 28456,
       "total_rows": 5,
       "percent_complete": 20
     },
     {
       "id": 34645,
       "created_at": "2020-09-04T18:10:55Z",
-      "upload_strategy": "strategy",
-      "list_id": 28833,
+      "upload_strategy": "strategy3",
+      "list_id": 75833,
       "total_rows": 5,
       "percent_complete": 80
     }
