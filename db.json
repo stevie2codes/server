@@ -169,10 +169,10 @@
       "upload_strategy": "strategy",
       "list_id": 28833,
       "total_rows": 5,
-      "percent_complete": 20
+      "percent_complete": 40
     },
     {
-      "id": 36845,
+      "id": 86753,
       "created_at": "2020-09-04T18:10:55Z",
       "upload_strategy": "strategy",
       "list_id": 28833,
@@ -180,12 +180,12 @@
       "percent_complete": 20
     },
     {
-      "id": 36845,
+      "id": 34645,
       "created_at": "2020-09-04T18:10:55Z",
       "upload_strategy": "strategy",
       "list_id": 28833,
       "total_rows": 5,
-      "percent_complete": 20
+      "percent_complete": 80
     }
   ]
 }
